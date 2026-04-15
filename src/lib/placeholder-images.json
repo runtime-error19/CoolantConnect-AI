@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "An anime-style illustration of a high-tech cooling system with glowing blue liquid.",
+      "imageUrl": "https://picsum.photos/seed/glowing-pipes/1200/800",
+      "imageHint": "liquid cooling"
+    }
+  ]
+}
